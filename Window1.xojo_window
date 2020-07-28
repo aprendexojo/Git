@@ -60,5 +60,13 @@ End
 #tag EndWindow
 
 #tag WindowCode
+	#tag Event
+		Sub Open()
+		  MessageBox("Hola Mundo")
+		  MessageBox("This is wonderful!)
+		End Sub
+	#tag EndEvent
+
+
 #tag EndWindowCode
 

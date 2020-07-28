@@ -70,3 +70,10 @@ End
 
 #tag EndWindowCode
 
+#tag Events PushButton1
+	#tag Event
+		Sub Action()
+		  MessageBox("prueba Sergio")
+		End Sub
+	#tag EndEvent
+#tag EndEvents

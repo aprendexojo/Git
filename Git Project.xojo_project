@@ -7,6 +7,7 @@ Window=Window1;Window1.xojo_window;&h0000000006278FFF;&h0000000000000000;false
 MenuBar=MainMenuBar;MainMenuBar.xojo_menu;&h000000005DA407FF;&h0000000000000000;false
 BuildSteps=Build Automation;Build Automation.xojo_code;&h000000002CB77FFF;&h0000000000000000;false
 MultiImage=ClosedLock;ClosedLock.xojo_image;&h000000000A4C97FF;&h0000000000000000;false
+MultiImage=AXControlGrid;AXControlGrid.xojo_image;&h0000000024ECAFFF;&h0000000000000000;false
 DefaultWindow=Window1
 AppMenuBar=MainMenuBar
 MajorVersion=1

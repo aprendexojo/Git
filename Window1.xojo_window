@@ -70,3 +70,15 @@ End
 
 #tag EndWindowCode
 
+#tag Events PushButton1
+	#tag Event
+		Sub Action()
+		  Var n As Integer = 10
+		  
+		  For x As Integer = 0 To n
+		    
+		    
+		  Next 
+		End Sub
+	#tag EndEvent
+#tag EndEvents

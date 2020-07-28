@@ -73,12 +73,7 @@ End
 #tag Events PushButton1
 	#tag Event
 		Sub Action()
-		  Var n As Integer = 10
-		  
-		  For x As Integer = 0 To n
-		    
-		    
-		  Next 
+		  MessageBox("Branch For Loging Window")
 		End Sub
 	#tag EndEvent
 #tag EndEvents
